@@ -33,7 +33,7 @@ create order
 //order data
 {
 "poNumber": "PO12345",
-"vendor": "66c6c1f83a600d7faab29f32",
+"vendor": "66c6e54495139d3234d8b640",
 "orderDate": "2024-08-21",
 "deliveryDate": "2024-09-01",
 "items": [
