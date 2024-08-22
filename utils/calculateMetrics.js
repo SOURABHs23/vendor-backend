@@ -1,6 +1,6 @@
 import Vendor from "../models/Vendor.js";
 import PurchaseOrder from "../models/PurchaseOrder.js";
-import HistoricalPerformance from "../models/historicalPerformance.js";
+import HistoricalPerformance from "../models/HistoricalPerformance.js";
 
 export const updateVendorMetrics = async (vendorId) => {
   try {
